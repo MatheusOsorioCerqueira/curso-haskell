@@ -1,0 +1,1 @@
+quadrado_lambda = \x -> (x*x)
