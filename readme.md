@@ -74,7 +74,23 @@ Aula 34: Função Sort.
 
 Aula 35: Criação de módulos.
 
-Aula 36: TAD Fila.
+Aula 36: TAD Fila(Implementado com Data, e não com lista).
+
+Aula 37: Grafos.
+
+Aula 38: IO e expressão "do".
+
+Aula 39: (Sem código) Introdução à interface gráfica Gtk
+
+Aula 40: QuickSort.
+
+Aula 41: Blocos de repetição (jogo de adivinhar o número).
+
+Aula 42: Reforço. Contando nucleotideos do DNA.
+
+Aula 43: Reforço. Funções de I/O
+
+
 
 
 
