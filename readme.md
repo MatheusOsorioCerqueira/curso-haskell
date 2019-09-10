@@ -88,7 +88,13 @@ Aula 41: Blocos de repetição (jogo de adivinhar o número).
 
 Aula 42: Reforço. Contando nucleotideos do DNA.
 
-Aula 43: Reforço. Funções de I/O
+Aula 43: Reforço. Funções de I/O.
+
+Aula 44: Escrever em um arquivo.
+
+Aula 45: Ler em um arquivo.
+
+Aula 46: Operações com arquivos.
 
 
 
